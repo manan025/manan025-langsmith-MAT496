@@ -2,6 +2,8 @@
 Link: [https://academy.langchain.com/courses/intro-to-langsmith](https://academy.langchain.com/courses/intro-to-langsmith)
 
 ## Module 1
+While I have tried to make several changes, the base model remains highly unstable as I have tried to focus more on Langsmith
+rather than working on improving the overall output of the model itself.
 
 ### Lesson 1
 Link: [Lesson1.ipynb](module1/lesson1.ipynb)\
@@ -19,3 +21,14 @@ Tweaks:
 - Reimplemented for Claude SDK (not compatible with OpenAI type API)
 - Added metadata to make it relevant
 - Added another tool to get dummy crime rate of a location
+
+### Lesson 3
+Link: [Lesson3.ipynb](module1/lesson3.ipynb)
+
+Tweaks:
+- Changed prompts to suit the overall theme
+- Edited the code for claude
+- Did the tasks accordingly as mentioned in the video
+- Worked on the optional part mentioned in the notebook provided in resources
+
+
