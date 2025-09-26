@@ -31,4 +31,9 @@ Tweaks:
 - Did the tasks accordingly as mentioned in the video
 - Worked on the optional part mentioned in the notebook provided in resources
 
+### Lesson 4
+Link: [Lesson4.ipynb](module1/lesson4.ipynb)
 
+Tweaks:
+- Model used: Claude 3.5 Haiku 
+Did not change the prompts as the objective was to see conversational threads on the langsmith platform
