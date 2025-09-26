@@ -10,4 +10,12 @@ Learnt how to make RAG models traceable for the requests to be visible on the la
 Tweaks:
 - Changed the RAG model to be instead a cold mail generator for research opportunities.
 - Added function decorator to ensure all the requests to models are traceable on the langsmith platform.
-- The answer is 
+
+### Lesson 2
+Link: [Lesson2.ipynb](module1/lesson2.ipynb)\
+Learnt how to classify runs, and use langchain with tools.
+
+Tweaks:
+- Reimplemented for Claude SDK (not compatible with OpenAI type API)
+- Added metadata to make it relevant
+- Added another tool to get dummy crime rate of a location
