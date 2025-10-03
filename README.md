@@ -63,8 +63,15 @@ Link: [Lesson3.ipynb](module2/lesson3.ipynb)
 
 Tweaks and learnings:
 - Understood the overall process of improving any model
-- Compared state of the art Claude Sonnet 4.5 and Claude 3.5 Haiku
+- Compared state-of-the-art Claude Sonnet 4.5 and Claude 3.5 Haiku
 - Used the existing example in langsmith course for simplicity
 - Learnt about different ways to use langsmith's experiment option
 
 ### Lesson 4
+Performed solely on the langsmith platform
+
+Tweaks and learnings:
+- Learnt options like charts and filters to explore the experiments runs
+- Options in UI to ensure better readability and getting individual runs
+- Compared experiments side by side
+- 
