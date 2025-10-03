@@ -56,3 +56,4 @@ Tweaks:
 - Basic understanding of how LLM-as-a-judge works
 - Parsed the output from claude in a certain way because it does not support custom output type
 - Explored langsmith platform to use the Auto Evaluate feature
+- Used claude 3.5 Haiku to assess the RAG model programmatically and through web UI
