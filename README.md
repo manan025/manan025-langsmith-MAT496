@@ -45,4 +45,13 @@ Link: [module2](module2)
 
 ### Lesson 1
 Link: [Lesson1.ipynb](module2/lesson1.ipynb)
+
+Tweaks:
 - Tried out various options within the langsmith dataset and evaluation section to add and modify examples in dataset
+
+### Lesson 2
+Link: [Lesson2.ipynb](module2/lesson2.ipynb)
+
+Tweaks:
+- Basic understanding of how LLM-as-a-judge works
+- Parsed the output from claude in a certain way because it does not support custom output type
