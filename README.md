@@ -55,3 +55,4 @@ Link: [Lesson2.ipynb](module2/lesson2.ipynb)
 Tweaks:
 - Basic understanding of how LLM-as-a-judge works
 - Parsed the output from claude in a certain way because it does not support custom output type
+- Explored langsmith platform to use the Auto Evaluate feature
