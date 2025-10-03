@@ -36,4 +36,13 @@ Link: [Lesson4.ipynb](module1/lesson4.ipynb)
 
 Tweaks:
 - Model used: Claude 3.5 Haiku 
+
 Did not change the prompts as the objective was to see conversational threads on the langsmith platform
+
+## Module 2
+
+Link: [module2](module2)
+
+### Lesson 1
+Link: [Lesson1.ipynb](module2/lesson1.ipynb)
+- Tried out various options within the langsmith dataset and evaluation section to add and modify examples in dataset
