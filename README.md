@@ -9,7 +9,7 @@ rather than working on improving the overall output of the model itself.
 Link: [Lesson1.ipynb](module1/lesson1.ipynb)\
 Learnt how to make RAG models traceable for the requests to be visible on the langsmith platform. Also learnt how to add metadata to filter and add more information on the platform alongside the essential API call information.
 
-Tweaks:
+Tweaks and learnings:
 - Changed the RAG model to be instead a cold mail generator for research opportunities.
 - Added function decorator to ensure all the requests to models are traceable on the langsmith platform.
 
@@ -17,7 +17,7 @@ Tweaks:
 Link: [Lesson2.ipynb](module1/lesson2.ipynb)\
 Learnt how to classify runs, and use langchain with tools.
 
-Tweaks:
+Tweaks and learnings:
 - Reimplemented for Claude SDK (not compatible with OpenAI type API)
 - Added metadata to make it relevant
 - Added another tool to get dummy crime rate of a location
@@ -25,7 +25,7 @@ Tweaks:
 ### Lesson 3
 Link: [Lesson3.ipynb](module1/lesson3.ipynb)
 
-Tweaks:
+Tweaks and learnings:
 - Changed prompts to suit the overall theme
 - Edited the code for claude
 - Did the tasks accordingly as mentioned in the video
@@ -34,7 +34,7 @@ Tweaks:
 ### Lesson 4
 Link: [Lesson4.ipynb](module1/lesson4.ipynb)
 
-Tweaks:
+Tweaks and learnings:
 - Model used: Claude 3.5 Haiku 
 
 Did not change the prompts as the objective was to see conversational threads on the langsmith platform
@@ -46,14 +46,25 @@ Link: [module2](module2)
 ### Lesson 1
 Link: [Lesson1.ipynb](module2/lesson1.ipynb)
 
-Tweaks:
+Tweaks and learnings:
 - Tried out various options within the langsmith dataset and evaluation section to add and modify examples in dataset
 
 ### Lesson 2
 Link: [Lesson2.ipynb](module2/lesson2.ipynb)
 
-Tweaks:
+Tweaks and learnings:
 - Basic understanding of how LLM-as-a-judge works
 - Parsed the output from claude in a certain way because it does not support custom output type
 - Explored langsmith platform to use the Auto Evaluate feature
 - Used claude 3.5 Haiku to assess the RAG model programmatically and through web UI
+
+### Lesson 3
+Link: [Lesson3.ipynb](module2/lesson3.ipynb)
+
+Tweaks and learnings:
+- Understood the overall process of improving any model
+- Compared state of the art Claude Sonnet 4.5 and Claude 3.5 Haiku
+- Used the existing example in langsmith course for simplicity
+- Learnt about different ways to use langsmith's experiment option
+
+### Lesson 4
