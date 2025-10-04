@@ -81,5 +81,13 @@ Link: [lesson5.ipynb](module2/lesson5.ipynb)
 Tweaks and learnings:
 - Judged two models side by side with dummy data
 - The final output is given as a link and can be accessed on the langsmith UI
+- Easier to compare multiple outputs
 
+### Lesson 6
+Link: [lesson6.ipynb](module2/lesson6.ipynb)
 
+Tweaks and learnings:
+- JSON parsing to ensure claude works with the rest of the code
+- Implemented the code for claude
+- Understood how f1 and other metrics work and found for the example dataset cloned from langsmith
+- Used summary evaluator to ensure that the metric is found on running the evaluator on the entire dataset instead of individual
