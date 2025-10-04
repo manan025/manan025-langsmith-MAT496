@@ -74,4 +74,12 @@ Tweaks and learnings:
 - Learnt options like charts and filters to explore the experiments runs
 - Options in UI to ensure better readability and getting individual runs
 - Compared experiments side by side
-- 
+
+### Lesson 5
+Link: [lesson5.ipynb](module2/lesson5.ipynb)
+
+Tweaks and learnings:
+- Judged two models side by side with dummy data
+- The final output is given as a link and can be accessed on the langsmith UI
+
+

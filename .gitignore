@@ -1,3 +1,4 @@
 intro-to-langsmith/
 .idea
 .venv
+.env
