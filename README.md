@@ -112,3 +112,11 @@ Tweaks and learnings:
 - Learnt how to commit prompts on langchain
 - Programmatically uploaded prompts to langchain
 - Converted code for Claude
+
+### Lesson 3
+Link: [lesson3.ipynb](module3/lesson3.ipynb)
+
+Tweaks and learnings:
+- Uploading and evaluating on prompts from database at once
+- Evaluation of responses obtained from model against reference outputs
+- Programmatically accessed prompt and changed variables within the prompt to get desired output
