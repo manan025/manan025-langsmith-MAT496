@@ -120,3 +120,8 @@ Tweaks and learnings:
 - Uploading and evaluating on prompts from database at once
 - Evaluation of responses obtained from model against reference outputs
 - Programmatically accessed prompt and changed variables within the prompt to get desired output
+
+### Lesson 4
+
+Tweaks and learnings:
+- Learnt how to get LLM assist to change prompt and make it better
