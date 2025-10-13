@@ -91,3 +91,15 @@ Tweaks and learnings:
 - Implemented the code for claude
 - Understood how f1 and other metrics work and found for the example dataset cloned from langsmith
 - Used summary evaluator to ensure that the metric is found on running the evaluator on the entire dataset instead of individual
+
+## Module 3
+
+### Lesson 1
+Link: [lesson1.ipynb](module3/lesson1.ipynb)
+
+Tweaks and learnings:
+- Learnt how to compare different models on langsmith playground
+- Compared different models
+- Used tool calling and output schema options
+- Uploaded dataset programmatically and compared reference output against the model output
+
