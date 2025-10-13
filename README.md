@@ -103,3 +103,12 @@ Tweaks and learnings:
 - Used tool calling and output schema options
 - Uploaded dataset programmatically and compared reference output against the model output
 
+### Lesson 2
+Link: [lesson2.ipynb](module3/lesson2.ipynb)
+
+Tweaks and learnings:
+- Used prompt hub
+- Added variables to prompts programmatically
+- Learnt how to commit prompts on langchain
+- Programmatically uploaded prompts to langchain
+- Converted code for Claude
